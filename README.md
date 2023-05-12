@@ -1,5 +1,5 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Felix Obuya</h1>
+<h1 align="center">Hi 👋, I'm Obuya Felix </h1>
 <h3 align="center">A Java Programmer | Web Dev | Android dev | ML enthusiast from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obuyajr17&label=Profile%20views&color=0e75b6&style=flat" alt="obuyajr17" /> </p>
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **felix37brock@gmail.com**
 
-- ⚡ Fun fact **KDB is the best midfielder to ever grace the EPL**
+- ⚡ Fun fact **KDB is the best midfielder to ever grace the EPL - 0 debates
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
