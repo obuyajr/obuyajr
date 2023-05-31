@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=obuyajr17" alt="obuyajr17" /></a> </p>
 
-- 🔭 I’m currently working on **Hotel Room Management System**
+- 🔭 I’m currently working on **Room Management System**
 
-- 🌱 I’m currently learning **Django, Flask, Reactjs,**
+- 🌱 I’m currently learning **VB.Net |Django | Flask| Reactjs**
 
 - 👯 I’m looking to collaborate on **RMS with a team**
 
