@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Room Management System**
 
-- 🌱 I’m currently learning **VB.Net |Django | Flask| Reactjs**
+- 🌱 I’m currently learning **VB.Net || Reactjs**
 
 - 👯 I’m looking to collaborate on **RMS with a team**
 
