@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Room Management System**
 
-- 🌱 I’m currently learning **VB.Net || Reactjs**
+- 🌱 I’m currently learning **VB.Net || **
 
 - 👯 I’m looking to collaborate on **RMS with a team**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **felix37brock@gmail.com**
 
-- ⚡ Fun fact **KDB is the best midfielder to ever grace the EPL - 0 debates
+- ⚡ Fun fact **KDB is the best midfielder to ever grace the EPL - no debates
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
