@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=obuyajr17" alt="obuyajr17" /></a> </p>
 
-- 🔭 I’m currently working on **Room Management System**
+- 🔭 I’m currently working on RENT MANAGEMENT SYSTEM**
 
 - 🌱 I’m currently learning **VB.Net || **
 
