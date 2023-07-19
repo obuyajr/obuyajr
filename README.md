@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=obuyajr17" alt="obuyajr17" /></a> </p>
 
-- 🔭 I’m currently RMS**
+- 🔭 I’m currently working on House Rental Management System**
 
 - 🌱 I’m currently learning **VB.Net || **
 
-- 👯 I’m looking to collaborate on **RMS with a team**
+- 👯 I’m looking to collaborate on **House Rental Management System with a team**
 
-- 💬 Ask me about **Java programming**
+- 💬 Ask me about **Java programming | VB.Net programming**
 
 - 📫 How to reach me **felix37brock@gmail.com**
 
