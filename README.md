@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=obuyajr17" alt="obuyajr17" /></a> </p>
 
-- 🔭 I’m currently working on House Rental Management System**
+- 🔭 I’m currently working on House Rental Management System in VB .net**
 
 - 🌱 I’m currently learning **VB.Net || **
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **felix37brock@gmail.com**
 
-- ⚡ Fun fact **KDB is the best midfielder to ever grace the EPL - no debates
+- ⚡ Fun fact **KDB is the best midfielder to ever grace the EPL - zero debates
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
