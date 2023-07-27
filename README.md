@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **felix37brock@gmail.com**
 
-- ⚡ Fun fact **KDB is the best midfielder to ever grace the EPL - zero debates
+- ⚡ Fun fact **KDB17 is the best midfielder to ever grace the EPL - zero debates
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
