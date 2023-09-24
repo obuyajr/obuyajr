@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **House Rental Management System with a team**
 
-- 💬 Ask me about **Java programming | VB.Net programming**
+- 💬 Ask me about **Java | VB.Net programming**
 
 - 📫 How to reach me **felix37brock@gmail.com**
 
