@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi! 👋, I'm Felix Omondi Obuya</h1>
-<h3 align="center">VB.Net Developer | Java Programmer | Web Developer | Android Dev | ML enthusiast from Nairobi Kenya</h3>
+<h3 align="center">VB.Net Developer | Java Programmer | Web Developer | Android Dev | ML enthusiast FROM Nairobi Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obuyajr17&label=Profile%20views&color=0e75b6&style=flat" alt="obuyajr17" /> </p>
 
@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **VB.Net || **
 
-- 👯 I’m looking to collaborate on **House Rental Management System with a team**
+- 👯 I’m looking to collaborate on **a VB.Net related project with a team**
 
 - 💬 Ask me about **Java | VB.Net programming**
 
 - 📫 How to reach me **felix37brock@gmail.com**
 
-- ⚡ Fun fact **KDB17 is the best midfielder to ever grace the EPL - zero debates
+- ⚡ Fun fact **Kevin De Bruyne is the best midfielder to ever grace the EPL - zero debates
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
