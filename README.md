@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on House Rental Management System in .net framework*
 
-- 🌱 I’m currently learning **VB.Net || **
+- 🌱 I’m currently learning **C#|| **
 
-- 👯 I’m looking to collaborate on **a VB.Net related project with a team**
+- 👯 I’m looking to collaborate on **a C# related project with a team**
 
 - 💬 Ask me about **Java | VB.Net programming**
 
